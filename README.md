@@ -1,4 +1,27 @@
-# Tag2Vec
+# Learning to hash-tag videos with Tag2Vec
+
+The project contains the resources for [Tag2Vec](https://arxiv.org/abs/1612.04061) project. 
+
+# Citing
+
+    @inproceedings{Singh:2016:LHV:3009977.3010035,
+     author = {Singh, Aditya and Saini, Saurabh and Shah, Rajvi and Narayanan, P J},
+     title = {Learning to Hash-tag Videos with Tag2Vec},
+     booktitle = {Proceedings of the Tenth Indian Conference on Computer Vision, Graphics and Image Processing},
+     series = {ICVGIP '16},
+     year = {2016},
+     isbn = {978-1-4503-4753-2},
+     location = {Guwahati, Assam, India},
+     pages = {94:1--94:8},
+     articleno = {94},
+     numpages = {8},
+     url = {http://doi.acm.org/10.1145/3009977.3010035},
+     doi = {10.1145/3009977.3010035},
+     acmid = {3010035},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {Tag2Vec, hash-tag recommendation, video tagging},
+    } 
 
 ## Contents
 
@@ -11,7 +34,6 @@
 
 ### Introduction
 
-The project contains the resources for building the project [Tag2Vec](https://arxiv.org/abs/1612.04061)
 
 ### Resources
 1. [Improved Dense Trajectory](http://lear.inrialpes.fr/~wang/improved_trajectories)
