@@ -1,6 +1,6 @@
 # Learning to hash-tag videos with Tag2Vec
 
-The project contains the resources for [Tag2Vec](https://arxiv.org/abs/1612.04061) project. 
+The project contains the resources for [Tag2Vec](https://arxiv.org/abs/1612.04061) project. The repository contains the link to the resources for ~3 million hashtagged vines, 2700 train and 260 test vines with their associated hashtags. 
 
 # Citing
 
