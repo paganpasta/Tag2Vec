@@ -1,6 +1,7 @@
 # Learning to hash-tag videos with Tag2Vec
 
 The project contains the resources for [Tag2Vec](https://arxiv.org/abs/1612.04061) project. The repository contains the link to the resources for ~3 million hashtagged vines, 2700 train and 260 test vines with their associated hashtags. Apart from it the steps also describe how to use the Improved Dense Trajectories code to generate video descriptors. 
+
 **Currently working on integrating zslearning and other required libraries into the docker** 
 
 # Citing
