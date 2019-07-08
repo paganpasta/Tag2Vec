@@ -37,9 +37,10 @@ The project contains the resources for [Tag2Vec](https://arxiv.org/abs/1612.0406
 
 ### Resources
 1. [Improved Dense Trajectory](http://lear.inrialpes.fr/~wang/improved_trajectories)
-2. [17K-HashTag Categories](https://1drv.ms/u/s!AjolE1_VpgR6ijGESpBJ8QeUkKVV?e=3kLjzy)
-3. [Train Videos]()
-4. [Test Videos](https://1drv.ms/u/s!AjolE1_VpgR6ijLig4Qc7Ji46uuQ?e=uIr4ff)
+2. [Zero Shot Learning](https://github.com/mganjoo/zslearning)
+3. [17K-HashTag Categories](https://1drv.ms/u/s!AjolE1_VpgR6ijGESpBJ8QeUkKVV?e=3kLjzy)
+4. [Train Videos]()
+5. [Test Videos](https://1drv.ms/u/s!AjolE1_VpgR6ijLig4Qc7Ji46uuQ?e=uIr4ff)
 
 ### How To Run
 ##### Improved Dense Trajectories(iDT)
