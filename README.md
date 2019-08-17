@@ -45,3 +45,7 @@ The work utilized the [Zero-Shot learning](https://github.com/mganjoo/zslearning
 
 ##### Tag2Vec
 **Note** Requires precomputed iDTs
+**Preprocessing**
+1. Remove duplicate videos. Based on md5 hash one can remove duplicate video data
+2. Process Hashtags and remove data which doesn't contain #CLASSNAME
+3. Remove Hashtags based on TF-IDF and lowest in-class frequency
